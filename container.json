@@ -1,0 +1,10 @@
+[
+  {
+    "Description": "CentOS 7 64-bit.ova",
+    "Format": "ova",
+    "UserBucket": {
+        "S3Bucket": "smartitsoloutions",
+        "S3Key": "CentOS 7 64-bit.ova"
+    }
+  }
+]
