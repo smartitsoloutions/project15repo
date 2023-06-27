@@ -3,11 +3,8 @@
    "Statement":[
       {
          "Effect": "Allow",
-         "Action": [
-            "s3:GetBucketLocation",
-            "s3:GetObject",
-            "s3:Listlist" 
-         ],
+       
+         ]
          "Resource": [
             "arn:aws:s3:::mynewindiabucket",
             "arn:aws:s3:::herohondabucket/*"   
