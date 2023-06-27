@@ -9,9 +9,10 @@
             "s3:ListBucket" 
          ],
          "Resource": [
-            "arn:aws:s3:::smartitsoloutions",
-            "arn:aws:s3:::smartitsoloutions/*"
-         ]
+            "arn:aws:s3:::mytestbucketindia",
+            "arn:aws:s3:::herohondabucket/*"   
+            "arn:aws:s3:::herohondabucket/*"
+	 ]
       },
       {
          "Effect": "Allow",
